@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### APP PROPERTIES ###
-src/main/resources/templates/application.properties
+src/main/resources/templates/application-prod.properties
